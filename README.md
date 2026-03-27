@@ -54,12 +54,11 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 *Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.*
 
 **B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
+<img width="635" height="455" alt="image" src="https://github.com/user-attachments/assets/aaee1ea6-8e1b-4840-a4bc-00c22add595a" />
 
 **C.Analysis of Results: (Write your own)**
 
-(Include sample calculations/Display/plot/typical graph)
-
-**D.Conclusions: (Write  your Own)**
+(<img width="1129" height="1507" alt="image" src="https://github.com/user-attachments/assets/99d2f148-ac31-4a24-ab11-b9e46a84991a" />
 
 **Precautions:**
 
@@ -68,4 +67,4 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 •	Observation should be taken properly.
 
 **Result:**
-
+The I–V characteristics of the Gunn diode were plotted and the negative resistance region was identified. Peak voltage (Vₚ) = 2.5 V, Valley voltage (Vᵥ) = 5 V. Peak current (Iₚ) = 195 mA, Valley current (Iᵥ) = 175 mA. Calculated negative resistance (Rₙ) ≈ –125 Ω.
